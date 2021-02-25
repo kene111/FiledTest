@@ -23,7 +23,7 @@
 9) BaseCase.py: This file contains a common code used in all three test files.
 
 ### Other Files:
-1).ENV & .ENV.TEST: Files used in setting evironment variables
+1).env.test: Files used in setting evironment variables
 
 ### Tech Stack:
 1) Flask
