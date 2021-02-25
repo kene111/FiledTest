@@ -39,7 +39,7 @@ PostMan: for testing the api endpoints.
 
 example:
 1) when testing the create api on "song" and its metadata, confirm that data = payload1 in test_create.py 
-2) In the test_delete.py confirm that audioFileType is equal to "song" and audiFileID is equal to the same value as song_id in payload1 in test_create.py
+2) In the test_delete.py confirm that audioFileType is equal to "song" and audioFileID is equal to the same value as song_id in payload1 in test_create.py
 3) In the test_update.py confirm that data =  payload1, audioFileType is equal to "song" and audioFileID is equal to the same value as song_id in payload1 in test_create.py
 4) confirm to have commented out the teardown function in BaseCase.py
 
