@@ -22,6 +22,9 @@
 8) test_update.py: This file contains the code used in testing the update api.
 9) BaseCase.py: This file contains a common code used in all three test files.
 
+### Other Files:
+1).ENV & .ENV.TEST: Files used in setting evironment variables
+
 ### Tech Stack:
 1) Flask
 2) MongoDB
