@@ -16,7 +16,7 @@
 2) models.py: This file contains models used in creating the database.
 3) api.py: This file contains the classes for each request endpoint.
 4) errors.py: This file contains custom code for error handling.
-5) routes.py: This file contains the route link for eact class.
+5) routes.py: This file contains the route link for each class.
 6) test_create.py: This file contains the code used in testing the create api.
 7) test_delete.py: This file contains the code used in testing the delete api.
 8) test_update.py: This file contains the code used in testing the update api.
@@ -30,7 +30,7 @@
 2) MongoDB
 
 ### Others technologies used:
-PostMan: for testing the api endpoints.
+PostMan: for testing the POST,GET,DELETE,and PUT api endpoints .
 
 ### Note: 
 1) Comment out the teardown function in BaseCase.py to test the update and delete api properly.
