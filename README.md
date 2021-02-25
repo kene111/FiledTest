@@ -23,7 +23,8 @@
 9) BaseCase.py: This file contains a common code used in all three test files.
 
 ### Other Files:
-1) .env.test: File used in setting evironment variables for testing api endpoints.
+1) .env.test: File used in setting the database for storing the data used in testing the api endpoints.
+2) .env: File used in setting the database for storing data.
 
 ### Tech Stack:
 1) Flask
