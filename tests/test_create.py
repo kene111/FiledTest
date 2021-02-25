@@ -46,5 +46,5 @@ class CreateAudioTest(BaseCase):
 
 		response = self.app.post('/add_audio', headers={"Content-Type": "application/json"}, data=payload1)
 
-		self.assertEqual(str, type("Action is successful 200 OK"))
+		self.assertEqual(str, type("Action is successful: 200 OK"))
 		self.assertEqual(200, response.status_code)
