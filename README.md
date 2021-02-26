@@ -5,12 +5,11 @@
 
 ### Working API endpoints
 
-Post request: https://audiofileserver.herokuapp.com/add_audio
-Get request:https://audiofileserver.herokuapp.com/get_audio/<audioFileType>/<audioFileID>
-Delete request: https://audiofileserver.herokuapp.com/delete_audio/<audioFileType>/<audioFileID>
-Put request: https://audiofileserver.herokuapp.com/update_audio/<audioFileType>/<audioFileID>
-  
-  
+1) Post request: https://audiofileserver.herokuapp.com/add_audio
+2) Get request:https://audiofileserver.herokuapp.com/get_audio/<audioFileType>/<audioFileID>
+3) Delete request: https://audiofileserver.herokuapp.com/delete_audio/<audioFileType>/<audioFileID>
+4) Put request: https://audiofileserver.herokuapp.com/update_audio/<audioFileType>/<audioFileID>
+   
   
 ## Repository Breakdown:
 
