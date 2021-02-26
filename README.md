@@ -10,7 +10,7 @@
 3) Delete request: https://audiofileserver.herokuapp.com/delete_audio/audioFileType/audioFileID
 4) Put request: https://audiofileserver.herokuapp.com/update_audio/audioFileType/audioFileID
 
-where audioFileType would be replaced with either song, podcast,or audiobook and audioFileId would be replaced with their respective IDs
+Here audioFileType would be replaced with either song, podcast,or audiobook and audioFileID would be replaced with their respective integer IDs
    
   
 ## Repository Breakdown:
